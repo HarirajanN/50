@@ -1,3 +1,10 @@
+
+.Night-mode:hover.row{
+background-color:black;
+color:white;
+}
+
+
 .spinner-border{
 margin-top:10px;
 margin-left:10px;
